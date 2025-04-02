@@ -1,0 +1,57 @@
+.tit1{
+color: rgb(220, 117, 20);
+}
+
+.sit1{
+    color: rgb(220, 117, 20);
+}
+
+.sit2{
+    color: rgb(0, 135,255);
+}
+
+.tit2{
+color: rgb(0, 135,255);
+}
+
+.subt1{
+    text-align: center;
+}
+
+.subt2{
+    text-align: center;
+}
+
+p{
+text-align: justify;
+line-height: 1.5;
+font-size: 1.5em;
+text-indent: 20px;
+}
+
+ul{
+line-height: 1.5;
+font-size: 1.em;
+text-indent: 20px;
+}
+
+img{
+display: block;
+margin: auto;
+}
+
+footer{
+text-align: center;
+}   
+body{
+background-color: rgb(0, 0, 0);
+margin-left: 2%;
+margin-right: 2%;
+color: white;
+}
+
+h1, h2{
+text-align: center;
+}
+
+
